@@ -12,7 +12,8 @@ January 3rd, 2017. [PUT YOUR DATE HERE]
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md)) 
-## I AM EXCLUDING RULE 5 FOR THE FIRST WEEK as I need some lessons on how to code in C# for Visual Studio. 
+
+#### ----I AM EXCLUDING RULE 5 FOR THE FIRST WEEK as I need some lessons on how to code in C# for Visual Studio. 
 
 
 ## Ideas to make this challenge more effective
