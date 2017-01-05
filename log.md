@@ -8,3 +8,10 @@
 
 **Link to work:** [Web URL for Project(NOT UPDATED TO ACTUAL CODE YET)](http://elizadev.net)
 
+### Day 1: January 4th, 2017
+
+**Today's Progress**: Got the basics of bootstrap down with some minor hiccups. 
+
+**Thoughts:** I need to come up with a more solid web design for the site.
+
+**Link to work:** [Current Progress](https://gyazo.com/76d26859bbb800eeb68b47b7277d8c89)
